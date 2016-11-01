@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>67F44453-97AD-41DD-A773-ABF6F5EDF28F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GGonggang</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5c2f09c4-ec98-cf4d-951f-0a54bdc7a64b</key>
+		<string>https://14.36.10.51:4443/svn/GGonggang</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GGonggang.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5c2f09c4-ec98-cf4d-951f-0a54bdc7a64b</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5c2f09c4-ec98-cf4d-951f-0a54bdc7a64b</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5c2f09c4-ec98-cf4d-951f-0a54bdc7a64b</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GGonggang</string>
+		</dict>
+	</array>
+</dict>
+</plist>

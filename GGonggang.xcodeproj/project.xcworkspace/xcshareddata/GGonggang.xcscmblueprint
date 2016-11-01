@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "b59db34e-3eeb-b742-9159-94fd494c212f",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b59db34e-3eeb-b742-9159-94fd494c212f" : {
+
+    },
+    "1ece6698-4f8d-0648-8167-f13e01478cf1" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b59db34e-3eeb-b742-9159-94fd494c212f" : 0,
+    "1ece6698-4f8d-0648-8167-f13e01478cf1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "67F44453-97AD-41DD-A773-ABF6F5EDF28F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b59db34e-3eeb-b742-9159-94fd494c212f" : "GGonggang\/",
+    "1ece6698-4f8d-0648-8167-f13e01478cf1" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GGonggang",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GGonggang.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/211.55.81.147\/svn\/houston",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1ece6698-4f8d-0648-8167-f13e01478cf1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/14.36.10.51:4443\/svn\/GGongGang",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b59db34e-3eeb-b742-9159-94fd494c212f"
+    }
+  ]
+}
